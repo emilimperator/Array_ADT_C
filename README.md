@@ -10,12 +10,5 @@ This project implements an Array Abstract Data Type (ADT) in C using dynamic mem
 - Max / Min / Sum / Average
 - Merge two sorted arrays
 
-## How to run
-Compile:
-- `gcc Array_ADT.c -o array_adt`
-
-Run:
-- `./array_adt`
-
 ## Author
 Emil Ganbarli
